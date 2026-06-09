@@ -106,13 +106,15 @@ Performed using Power Query :
 
 ## 📷 Dashboard Preview
 
-(Add your Power BI screenshot here)
+![Nmap Scan](https://github.com/vishnu-mohan29/IPL-Data-Analytics/blob/main/Screenshot%20(99).png)
+
 
 ---
 
 ## 📁 Files Included
 
 * `.pbix` Power BI Dashboard File
-  
+  ![pbix file](https://github.com/vishnu-mohan29/IPL-Data-Analytics/blob/main/IPL%20analysis%202008%20-%202025.pbix)
+
 
 
